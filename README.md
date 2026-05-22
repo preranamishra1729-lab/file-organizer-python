@@ -1,5 +1,5 @@
-# file-organizer-python
-Python automation script for InternSpark task
+
+#Python automation script for InternSpark task
 # File Organizer Script
 
 ## What it does
